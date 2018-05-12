@@ -1,3 +1,1 @@
-### 卡牌式ARPG V1.0
-- a - a
-- a
+### CARDS_ARPG V1.0
