@@ -1,1 +1,1 @@
-<center>text</center>
+###卡牌式ARPG V1.0
